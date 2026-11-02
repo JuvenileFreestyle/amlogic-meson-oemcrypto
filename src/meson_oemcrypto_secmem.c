@@ -20,8 +20,8 @@
  * THE SOFTWARE.
  */
 
-#include "include/meson_oemcrypto_secmem.h"
-#include "include/meson_secmem_uapi.h"
+#include "meson_oemcrypto_secmem.h"
+#include "meson_secmem_uapi.h"
 
 #include <stdio.h>
 #include <stdlib.h>

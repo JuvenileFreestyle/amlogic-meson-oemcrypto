@@ -20,9 +20,9 @@
  * THE SOFTWARE.
  */
 
-#include "include/OEMCrypto.h"
-#include "include/meson_ta_wvcenc.h"
-#include "include/meson_oemcrypto_secmem.h"
+#include "OEMCrypto.h"
+#include "meson_ta_wvcenc.h"
+#include "meson_oemcrypto_secmem.h"
 
 #include <stdio.h>
 #include <stdlib.h>
